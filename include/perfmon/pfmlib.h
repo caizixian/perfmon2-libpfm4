@@ -568,7 +568,7 @@ typedef enum {
 
 	PFM_PMU_AMD64_FAM19H_ZEN3,	/* AMD AMD64 Fam19h Zen3 */
 	PFM_PMU_AMD64_RAPL,		/* AMD64 RAPL */
-	PFM_PMU_AMD64_FAM19H_ZEN3_L3,	/* AMD64 Fam17h Zen3 L3 */
+	PFM_PMU_AMD64_FAM19H_ZEN3_L3,	/* AMD64 Fam19h Zen3 L3 */
 
 	PFM_PMU_INTEL_ICX,		/* Intel IceLakeX */
 
@@ -636,6 +636,7 @@ typedef enum {
 
 	PFM_PMU_POWER10,		/* IBM POWER10 */
 	PFM_PMU_AMD64_FAM19H_ZEN4,	/* AMD AMD64 Fam19h Zen4 */
+	PFM_PMU_AMD64_FAM19H_ZEN4_L3,	/* AMD64 Fam19h Zen4 L3 */
 	PFM_PMU_ARM_V1,			/* ARM Neoverse V1 */
 	PFM_PMU_ARM_V2,			/* Arm Neoverse V2 */
 	PFM_PMU_INTEL_EMR,		/* Intel EmeraldRapid */
